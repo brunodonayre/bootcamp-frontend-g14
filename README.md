@@ -5,6 +5,8 @@
 
 #Guardar cambios de un archivo en específico
 * git add index.html
+
+#Escribiendo el nombre de la modificación
 * git commit -m "Mi primera página"
 
 #Guardar los cambios de todos los archivos modificados
@@ -15,4 +17,4 @@
 * git log --oneline
 
 #detalla los cambios en cada commit pero requiere los id
-* git show "porción de id" q
+* git show "porción de id" 
