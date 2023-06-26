@@ -14,7 +14,13 @@
 
 #detalla los cambios de forma mas corta y describe los id
 * git log --oneline --graph
-* git log --oneline
+* git log --oneline #lista con id mas resumida
+* git log 
 
 #detalla los cambios en cada commit pero requiere los id
 * git show "porción de id" 
+
+#creamos un repositorio en github 
+$ git remote add origin https://github.com/brunodonayre/bootcamp-frontend-g14.git
+$ git branch -M main
+$ git push -u origin main
