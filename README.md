@@ -25,4 +25,5 @@ $ git remote add origin https://github.com/brunodonayre/bootcamp-frontend-g14.gi
 $ git branch -M main
 $ git push -u origin main
 
-*git status
+#Creando ramas de trabajo
+*git checkout -b <nombre-de-la-rama>
